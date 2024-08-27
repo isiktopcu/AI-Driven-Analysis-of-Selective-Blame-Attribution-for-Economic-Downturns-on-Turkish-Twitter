@@ -1,10 +1,8 @@
 ![image](https://github.com/user-attachments/assets/299efb1f-6a15-440c-86a8-2940aefa8f6f)
 Findings: 
 
-The analysis of the difference in proportions of economic responsibility categories between right-leaning and left-leaning ideologies reveals a significant pattern of selective responsibility attribution, often characterized by blame-shifting. 
+Selective blame attribution plays a crucial role in the political landscape, especially during economic crises. In Turkey, this tendency may be a key factor in the persistence of incumbent parties.
 
-Right-leaning individuals are more likely to attribute economic issues to external actors or the opposition, thereby deflecting blame from the government, a behavior that reflects a tendency to protect their political alignment. In contrast, left-leaning individuals are more inclined to hold the government directly accountable for economic failures. 
+Right-leaning individuals often deflect economic blame away from the government, attributing issues to external factors or the opposition. This protective behavior reinforces loyalty to the ruling party, even during economic downturns. On the other hand, left-leaning individuals are more likely to hold the government accountable, which could drive their desire for political change.
 
-This selective attribution and blame-shifting may influence electoral behavior, with right-leaning voters potentially exhibiting greater loyalty to incumbent parties during economic crises, contributing to the resilience of these parties. 
-
-On the other hand, left-leaning voters, who assign responsibility to the government, may be more motivated to vote for political change. This dynamic highlights how partisan bias in economic responsibility attribution can reinforce political polarization and shape electoral outcomes.
+This dynamic of selective blame attribution helps sustain the support base for incumbents, particularly among right-leaning voters, and may explain the resilience of governing parties in Turkey despite economic challenges.
